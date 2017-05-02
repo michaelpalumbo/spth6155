@@ -1,1 +1,1 @@
-# spth6155
+# SPTH 6155 - Accelerating Technicity - 
