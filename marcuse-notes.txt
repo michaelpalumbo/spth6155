@@ -11,6 +11,11 @@ provide 2 questions for -- pages 152-162 of marcuse.
 --0. keywords
 	- technics
 
+	- tecnocracy: "the technical considerations of 
+imperialistic efficiency and rationality supersede the 
+traditional standards of profitability and general 
+welfare." BUT Need to to define it more, perhaps from 
+outside this article
 
 
 --1. notes on whole article:
@@ -32,4 +37,8 @@ technology on human individuals (138).
 instruments, devices and contrivances which characterize 
 the machine age is thus at the same time a mode of 
 orgnizing and perpetuation (or changing) social 
-relationships, a m
+relationships, a manifestation of prevalent thought and 
+behaviour patterns, an instrument for control and 
+domination." (138-139)
+
+
