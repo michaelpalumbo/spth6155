@@ -44,4 +44,12 @@ convergence of structures to a structural unity
 rather than with the seeking of compromises between 
 conflicting requirements." (15)
 
+"This kind of divergence of functional aims is a 
+residue of abstract design in the technical object, 
+and the progress of a technical object is definable 
+in terms of the progessive reduction of this margin 
+between functions in plurvalent structures." 
 
+Simondon claims that opposed to humans, technical 
+species have finite "...directions of convergence," 
+(17) but does not state why this is. 
