@@ -1,0 +1,1 @@
+java -jar code-maat-1.0-SNAPSHOT-standalone.jar -l logfile.log -c git -a entity-effort > code-maat.csv
