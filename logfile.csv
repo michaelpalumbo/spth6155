@@ -1,0 +1,217 @@
+[389f6d0] michaelpalumbo 2017-06-13 attempting to still remove the description and processing info from this page
+2	1	docs/index.html
+
+[9309803] michaelpalumbo 2017-06-13 removed the meta section from site
+3	10	docs/index.html
+
+[464a4bf] michaelpalumbo 2017-06-13 added processing sketch to test index embed
+-	-	docs/Georgia.ttf
+44	0	docs/Tickle.pde
+80	0	docs/index.html
+21738	0	docs/processing.js
+
+[2dbe94e] michaelpalumbo 2017-06-13 fixing merge conflict from chromebook to macbookpro
+[4f57975] michaelpalumbo 2017-06-13 updating before pull
+5	0	essay/essay_abstract.html
+5	0	index.html
+-	-	notes/.DS_Store
+
+[b94c16b] michaelpalumbo 2017-06-08 super-brief notes from Ahsan's presentation in class. can related to the surveillance-project that you did with Reinhart, Scherer, Norman, Harris.
+10	0	Srnicek_Platform_capitalism.txt
+
+[eff4de6] michaelpalumbo 2017-06-08 SEE this one, starting around line 50, where I talk about Reed's tenet of 'abstractify' because its useful in thinking about standing reserves, accelerationism, and abstraction
+56	0	reed.txt
+
+[8c81b48] michaelpalumbo 2017-06-08 notes from first half of class. see in particular KEY notes at end of 'the_labor_of_the_inhuman.txt' because it is likely very useful for your paper, which could be a reading of accelerationism from a software programming perspective
+1	1	index.html
+1	0	manifesto.txt
+15	0	notes_on_negri.txt
+74	0	the_labor_of_the_inhuman.txt
+
+[32b204b] michaelpalumbo 2017-06-06 html not rendering in github.io page
+0	1	index.html
+
+[06274ef] michaelpalumbo 2017-06-06 added notes from class as well as some processing sketch testing to embed in the webpage
+10	1	index.html
+35	0	manifesto.txt
+9	0	sketch/circle.pde
+67	0	virilio_great_accelerator.txt
+
+[5e12cff] michaelpalumbo 2017-06-06 added index.html
+1	0	index.html
+8	0	virilio_great_accelerator.txt
+
+[64cbfcc] michaelpalumbo 2017-06-06 updates from notes in class
+20	0	virilio_great_accelerator.txt
+
+[a2573a0] michaelpalumbo 2017-06-06 adding a docs folder to the project in prep of the github.io
+324	0	log.csv
+1	0	stiegler_notes.txt
+27	0	virilio_great_accelerator.txt
+
+[4c1da1f] michaelpalumbo 2017-05-20 sitting here with pouya talking about linux mate. also i saved the file
+9	1	simondon_reading_notes.txt
+
+[3537562] michaelpalumbo 2017-05-20 found some interesting points about evolution of a technical object relating to the constituent parts of an object, whether separate parts are singularly functional and depend on all other parts not getting in the way or overlapping in function, with the more modern tech where parts are multifunctional and interdependent.
+18	0	simondon_reading_notes.txt
+
+[efc21fa] michaelpalumbo 2017-05-20 in alberta, taking notes after a long day. am really tired, so if my notes are lacking anything, maybe thats it. .. .. ...
+12	0	simondon_reading_notes.txt
+
+[0bcea84] michaelpalumbo 2017-05-20 added note file for reading of simondon's On the Mode of existence of technical objects
+8	0	notes_marcuse_one-dimensional-man.txt
+17	0	simondon_reading_notes.txt
+
+[e9a696f] michaelpalumbo 2017-05-18 some more KEY quotes, see especially '...True discourse...'
+53	2	notes_marcuse_one-dimensional-man.txt
+
+[60c3f87] michaelpalumbo 2017-05-18 taking notes on chapters 5-7 retroactively
+18	0	notes_marcuse_one-dimensional-man.txt
+
+[e284e6e] michaelpalumbo 2017-05-18 Added a paragraph from page 223 looking at an example of the technological reality dealing with objects.
+15	1	one-dimensional-man.txt
+1	0	test
+
+[1d8d76c] michaelpalumbo 2017-05-18 a couple cool points: process of enframing leading one intention of use for pyramids by their builders. actually became too many to document here and keep up with the class conversation. so JUST MAKE SURE YOU LOOK AT THIS ONE COMMIT. i think i need to come up with a symbol to make searching through commits easier. lets try the word 'key'.
+94	0	one-dimensional-man.txt
+
+[f9f682f] michaelpalumbo 2017-05-18 came across a paragraph where I critiqued it for its blindness to the effect of dominant discourse
+26	0	one-dimensional-man.txt
+
+[e92b0d9] michaelpalumbo 2017-05-18 technological rationality as dominant logic.
+9	0	one-dimensional-man.txt
+
+[6394780] michaelpalumbo 2017-05-18 see additions pointing to page 138 about abstraction
+20	0	one-dimensional-man.txt
+
+[629d9d1] michaelpalumbo 2017-05-18 added a section from prior to our assigned sections that Ahsan pointed out, which deals with remembrance and its association/dissociation to established society, which then leads to a quote from Adorno on page 102: 'The spectre of man without memory ... is more than an aspect of decline -- it is necessarily linked with the principle of progress in bourgeois society.' 'Economists and sociologists such as Werner Sombart and Max Weber correlated the principal of tradition to feudal, and that of rationality to bourgeois, forms of society. This means no less than the advancing bourgeois society liquidates Memory, Time, Reccollection as irrational leftovers of the past...' (Adorno, Wes bedeutet Aufarbeitung der Vergangenheit?'. Marcuse mentions that 'The struggle against history will be further discussed in chapter 7.'
+42	0	one-dimensional-man.txt
+
+[60a3ac0] michaelpalumbo 2017-05-18 see 'KEY' point about formal logic linked with possitivism
+12	0	one-dimensional-man.txt
+
+[422f20b] michaelpalumbo 2017-05-16 really interesting discussion of my section of the class-assigned text of marcuse. you should look at how Dr. Bell compares how marcuse critiques Individualism>Massification with your (me) concern with post-individualism, coming in from the lens of distributed creativity to critique individualism's notion of the genius removed from society, and that Marcuse's text seems to have a fear of losing one's own individualism in a mass, but the text doesn't discuss much of the creative potential of the mass itself.
+63	0	class-notes_marcus.txt
+
+[33afb91] michaelpalumbo 2017-05-16 see not on edward said'd travelling theory, and matter-of-factness
+23	0	class-notes_marcus.txt
+
+[64330c8] michaelpalumbo 2017-05-16 added a note about efficiency's effect on education in that students' emphasis on grades being their primary focus instead of looking at other possible affordances of the classroom
+6	1	class-notes_marcus.txt
+
+[858aa8c] michaelpalumbo 2017-05-16 nothing of note to mention
+2	0	class-notes_marcus.txt
+
+[10de398] michaelpalumbo 2017-05-16 Merge branch 'master' of http://github.com/michaelpalumbo/spth6155
+[092bc99] michaelpalumbo 2017-05-16 notes from lecture on Marcuse
+58	0	class-notes_marcus.txt
+12	0	marcuse-notes.txt
+14	0	terminology_marcuse.txt
+
+[e534e4c] Michael Palumbo 2017-05-16 Create marcuse_discussion_and_questions.txt
+44	0	marcuse_discussion_and_questions.txt
+
+[a7e2339] michaelpalumbo 2017-05-15 forgot to add that two important ideas come up in the notes i just added in the previous commit, which are the 'individual' and their change from individualism proper, to one that is dependent on what marcuse calls the 'appratus' or what i assume to be the technocracy. 2nd idea is that of 'standardization of thought' which is the effect of the apparatus on the minds of individuals, which espouses rationality to the effect that forces of oppositon and their truths become standardized and folded into the apparatus such that they are used to further the interests of that which they purportedly were once against.
+2	1	marcuse-notes.txt
+
+[cffc22c] michaelpalumbo 2017-05-15 completed notes and reading of pages up to the section I need to read and write the summary and discussion questions for
+55	0	marcuse-notes.txt
+
+[63185d5] michaelpalumbo 2017-05-15 just saved my notes from yesterday in case it wasn't saved
+32	1	marcuse-notes.txt
+
+[c7bd84f] michaelpalumbo 2017-05-14 added a quote from marcuse, page 140 about individualism, and noted that Dcog and Distributed creativity are in opposition to individualism -- not in opposition to self-interest, rather in opposition to the position that one can be entirely 'guided and controlled by autonomous thinking', that no one can truly be autonomous in thought.
+18	1	marcuse-notes.txt
+
+[e356ff3] michaelpalumbo 2017-05-14 need to define 'technocracy' see page 139
+10	1	marcuse-notes.txt
+
+[523047d] michaelpalumbo 2017-05-14 added some notes from pages 138-139. need to define the word 'technics', as i'm offline right now.
+30	0	marcuse-notes.txt
+
+[59a8b7c] michaelpalumbo 2017-05-11 created the text file for the marcuse response and discussion questions assignment for next class.
+5	0	marcuse-notes.txt
+
+[97c2ef9] michaelpalumbo 2017-05-11 in 'notes-from-may-11.txt' definitely see the latter part of the document for the discussion on simulation. simulation might be REALLY interesting in thinking about how creativity manifests and is changed by work in/with a computer/distributed-computing/cloud social network/etc: we challenge for the representaions on screen for reordering to serve our purposes and so on.
+35	3	notes-from-may-11.txt
+
+[41c5adc] michaelpalumbo 2017-05-11 cleaned up directory because two files were named similarly, one being ~.txt.save.
+15	0	Jay-Gouldings_western-eastern_Terminology.txt
+32	0	positionality-discussion_in-class.txt
+
+[c2ff7c0] michaelpalumbo 2017-05-11 note that heidegger's notion on instrumentality comes from Marcuse's relational instrumentality, which we'll read about in next week's texts. want to highlight that Jay Goulding pointed to the FRAGMENT as a very interesting and significant concept in deeper Heidegger, so look into this later http://www.popmatters.com/column/forays-into-the-fragment-heidegger-and-kant/   also note that Heidegger's focus on the Danger of technology is an assertion that technology homogenizes.
+63	37	notes-from-may-11.txt
+
+[01e9cda] michaelpalumbo 2017-05-11 moved into the discussion on the lecture on 'the danger' which is by Josh.
+43	2	notes-from-may-11.txt
+23	0	positionality-discussion.txt
+
+[b57dc70] michaelpalumbo 2017-05-11 added the important comparison of the 'challenging-forth' as precursor to 'enframing'
+35	0	notes-from-may-11.txt
+
+[374753a] michaelpalumbo 2017-05-11 added notes from class. of high interest to me research is the discussion on representation
+30	0	notes-from-may-11.txt
+
+[a6abda9] michaelpalumbo 2017-05-11 posting the notes and questions for class
+63	0	positionality-discussion.txt
+
+[6bf3fa9] michaelpalumbo 2017-05-11 added a key paragraph that describes positionality as a 'chain[ing] of requisitioning' on page 27.
+8	0	positionality.txt
+
+[93fdece] michaelpalumbo 2017-05-09 i'm going to stop working for now, so where i was just at is the idea about coal as a standing reserve is 'imposed upon [for heat]'
+6	1	positionality.txt
+
+[b7134a9] michaelpalumbo 2017-05-09 really KEY section, which is that the parts at the beginning of page 27 is useful for thinking about a way of thinking as PART of technology. that a policy is technology. international diplomacy is technology.
+10	0	positionality.txt
+
+[60f5a1f] michaelpalumbo 2017-05-09 a really compelling section about the meaning of 'to position, place, set'. relates to the self-positioning, conscription of resources (standing reserves) into work i.e. the human worker, the ox, the land
+33	0	positionality.txt
+
+[d8d5321] michaelpalumbo 2017-05-09 the idea of requisitioning and positioning, i'm curious if it is a temporal concernful approach, and added this question in this commit
+32	0	positionality.txt
+
+[cb2e898] michaelpalumbo 2017-05-09 skimmed through page 24 as Heidegger was eating himself a little... i'm tired. i'm onto page 25 now and the 'standing reserve' has reappeared.
+3	0	positionality.txt
+
+[70a2425] michaelpalumbo 2017-05-09 more on the concerned approach. its as yet unclear what is meant by 'distance lies in concerned approach. The concerned appraoch lies in nearness.' i'm curious if this implies a uni-directionality for the concerned approach. ahhhhh it must be if it is an approach. BUT this section is prefaced by a claim that that which 'absesneces [also] bears the character of what concernfully approaches'
+6	1	positionality.txt
+
+[01a85bc] michaelpalumbo 2017-05-09 on page 23 and 24. defined 'longinquity'. now trying to figure out what is meant by 'concernful approach'. my hunch at this point is that it has something to do with the thinking about distance, and a thing's position in relation to oneself, and a thing's position in relation to other things all in relation to oneself. i consider this because of two reasons: first, the 'concern' is a mental state, and two, because Heidegger, at bottom of page 23 talks about how a 'concerned approach attunes the distance ... between what is present within presencing.' in that through concern the concept of a things distance in relation to oneself is 'attuned'. not sure about this, but this is where i'm at
+22	0	positionality.txt
+
+[7b5cc56] michaelpalumbo 2017-05-09 added positionality.txt because i don't want to type out the full description, but its my notes on this section for the presentation in class on thursday
+4	0	positionality.txt
+
+[f2f58c0] michaelpalumbo 2017-05-09 these are my notes for the heidegger text on positionality that i need to read for class for thursday
+2	0	notes_on_heidegger_positionality.txt
+
+[99a1ef6] Michael Palumbo 2017-05-09 updated my question in lines 143-148 concerning thinking in relation to technology as a component of technology as per Heidegger, and whether this would fit into a model of distributed cognition (and-or distributed creativity)
+3	0	Heidegger - The question concerning technology in-class
+
+[237a416] Michael Palumbo 2017-05-09 see line 143-146 of this note as it pertains to asking about technology also includes "as the way of relating to technology" so then asked how this might fit into a distributed creativity model(s) added a link to a book
+3	1	Heidegger - The question concerning technology in-class
+
+[a035457] Michael Palumbo 2017-05-09 added Einnar's discussion questions and part of my response to such. NOTE that hist first question is VERY compelling in thinking about performance studies as instrumentalizing the fine arts towards political force
+50	0	Heidegger - The question concerning technology in-class
+
+[8d1d6b7] Michael Palumbo 2017-05-09 only a very small portion of Rons breaking down of passages from 10-16
+6	0	Heidegger - The question concerning technology in-class
+
+[54e99a4] Michael Palumbo 2017-05-09 Create Heidegger - The question concerning technology in-class discussion
+87	0	Heidegger - The question concerning technology in-class
+
+[673e1cd] Michael Palumbo 2017-05-02 ignore the .DS_Store files on macosx
+3	19	.gitignore
+
+[c98d4b8] Michael Palumbo 2017-05-02 Update README.md
+2	1	README.md
+
+[edd8abb] michaelpalumbo 2017-05-02 added the annotsted pdf of the syllabus
+-	-	SPTH-6155_Syllabus-Annotated.pdf
+
+[e0f98b2] Michael Palumbo 2017-05-02 Updating Readme to reflect course title. will shortly add syllabus
+1	1	README.md
+
+[6108ab1] Michael Palumbo 2017-05-02 Initial commit
+19	0	.gitignore
+1	0	README.md
