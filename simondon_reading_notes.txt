@@ -1,0 +1,55 @@
+Notes on "i. Abstract Technical Object and 
+Concrete Technical Object"
+
+When Simondon states that "It is difficult ... to define 
+the genesis of each technical object, because the 
+individuality of technical objects is modified to the 
+course of the genesis." (11) what is meant by 
+'individuality'? 
+
+"...no fixed structure corresponds to its defined 
+use." (11)
+
+"If we begin with the criteria of its [the technical 
+object's] genesis we can define the individuality or 
+specificity of any technical object." (12)
+
+Seems to say that as a technical object evolves, its 
+chratacteristics of "...unity, individuality, and 
+specificity ... are consistent and convergent with 
+its genesis." (ibid)
+
+KEY >> "The technical object as such is not anterior 
+to its own becoming but it is present at every stage 
+of its becoming. The technical object is a unit of 
+becoming." (ibid)
+
+The footnote on page 12 suggests that 'genesis' and 
+a genetic framework as useful for discussing the 
+classification of technical objects.
+
+"...there is a sequence, a continuity, which extends 
+from the first engines to those which we know and to 
+those still in evolution. As a consequence, just as 
+in the case of phylogenetic sequences, any particular 
+stage of evolution contains within itself dynamic 
+structures and systems which are at the basis of any 
+evolution of forms. The technical being evolves by 
+convergence and by adaption to itself; it is unified 
+from within according to a principle of internal 
+resonance." (14)
+
+"Therefore the technical problem has to do with the 
+convergence of structures to a structural unity 
+rather than with the seeking of compromises between 
+conflicting requirements." (15)
+
+"This kind of divergence of functional aims is a 
+residue of abstract design in the technical object, 
+and the progress of a technical object is definable 
+in terms of the progessive reduction of this margin 
+between functions in plurvalent structures." 
+
+Simondon claims that opposed to humans, technical 
+species have finite "...directions of convergence," 
+(17) but does not state why this is. 
