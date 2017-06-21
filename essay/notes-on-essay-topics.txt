@@ -1,0 +1,8 @@
+foucault died before he could look at the effects of digital life on humans (from the discussion on marcuse: line 57 of class-notes_marcus.txt)
+
+Technology as a push for efficiency also has an effect on the classroom, because if students are chiefly concerned about their grades as their primary takeaway from the class, then they will only focus on what it takes to get a grade in the most efficient course of action. this works in opposition to being open other aspects of the class that may or may not co-relate to grades but are nonetheless of potential value. (line 60 of class-notes_marcus.txt)	
+	-- Does CSCL address or discuss 'efficiency' in the classroom? does it support or detract from it?
+
+through technology our thinking is supplanted by instrumentalization... i.e. a gps does the thinking and navigation for you (see page 141). Stiegler talks about this in automated society. (line 67 of class-notes_marcus.txt)
+	-- the text editor i'm currently using to write these notes in Sublime Text 3, and it has some plugins which help enrich my writing experience, [be critical of use of 'enrich'] by auto-completing certain uses of symbols, for example the invoking of ' , a second ' immediately appears before my cursor. 
+		-- can there be a question in here, something about 
