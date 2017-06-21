@@ -5,4 +5,6 @@ Technology as a push for efficiency also has an effect on the classroom, because
 
 through technology our thinking is supplanted by instrumentalization... i.e. a gps does the thinking and navigation for you (see page 141). Stiegler talks about this in automated society. (line 67 of class-notes_marcus.txt)
 	-- the text editor i'm currently using to write these notes in Sublime Text 3, and it has some plugins which help enrich my writing experience, [be critical of use of 'enrich'] by auto-completing certain uses of symbols, for example the invoking of ' , a second ' immediately appears before my cursor. 
-		-- can there be a question in here, something about 
+		-- can there be a question in here, something about how these tools are aimed at scafolding efficiency, but they do make assumptions about particular use patterns of the ascii keys, causing some of 'em['] to be used in this way. 
+
+		
