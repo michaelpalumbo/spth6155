@@ -7,4 +7,6 @@ through technology our thinking is supplanted by instrumentalization... i.e. a g
 	-- the text editor i'm currently using to write these notes in Sublime Text 3, and it has some plugins which help enrich my writing experience, [be critical of use of 'enrich'] by auto-completing certain uses of symbols, for example the invoking of ' , a second ' immediately appears before my cursor. 
 		-- can there be a question in here, something about how these tools are aimed at scafolding efficiency, but they do make assumptions about particular use patterns of the ascii keys, causing some of 'em['] to be used in this way. 
 
-		
+
+Shannon's mention of travelling theory: "... that work itself takes on a trajectory of its own, and the people who you don't expect to read it read it anyway, and take it in theor own directions. ... this way you take what you need of [someone like Heidegger] and use if for something [they] didn't address."
+	-- Said's Travelling Theory might be crucial to scholarly writing using a VCS? 
