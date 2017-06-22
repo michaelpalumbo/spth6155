@@ -22,7 +22,8 @@ Shannon pointed out that where marcuse is concerned with the massification of in
 
 Accelerationist politics
 	- distinction between vertical authority and distributed horizontal. 
-
+		-- this is seen in the case of distributed version control, where authority is still hierarchical, in that permissions can be assigned to users for various activity i.e. restrictions on pulling/pushing/merging, etc. 
+		
 One of the problems of technology is that we are not capable of determining what technology is capable of because of the way it is enframed, so we need to explode the enframing. 
 	- democracy [recall that democracy may be a form of technology] cannot be defined simply by its means -- not via voting, discussion, or general assemblies. 
 
