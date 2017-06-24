@@ -7,6 +7,8 @@ i will attempt to show that offering one’s code as open-source in the cloud is
 
 
 For Heidegger, positionality creates a mental model of spatio-temporal nearness of things. Requisitioning the repositories of other users in the social web of a DVCS like github requires one to navigate pathways of varying spatiotemporal nearness. [find some philosophy that describe the navigation of the web]
+	-- can link this with Virilio's quote "the polar inertia produced by the instantaneity of interactive connections is actually poised to supplant the fixed-property inertia of places..." (3) <<<What is meant by the 'polar inertia' here? but yes, interactive connections is likely quite useful. [be wary that Virilio engages in a 'panicked enframing']
+
 
 following Heidegger's depiction of 'ordering' on page 26, when the contents of a repository is 'cloned' from the cloud into the local storage of another user, it is ordered such that it may be standing reserve. As a standing reserve, a cloned repository may be used in support of an unfinished or unsolved portion of one's code, and it may also be used as a starting place for an entirely new work. 
 
