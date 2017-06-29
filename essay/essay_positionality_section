@@ -7,3 +7,26 @@ positionality and/of distributed cognition
 positionality of opensource work -- [this is where self-interest comes in]
 
 
+<!-- need to describe the git workflow-->
+To retrieve the most up-to-date version of the project, a user invokes a pull request, which downloads whatever parts of the remote repository that differ from the local. A creator then makes changes to the items in their local repository, providing comments about changes contemporaneously in the commit history. When a change needs to be added to the remote repository, the <i>push</i> command is invoked. 
+
+
+
+
+
+As the master archive of a contemporaneous accounting of the development of a work, performed by one or many collaborators, the remote repository persists in the cloud. 
+
+Following Heidegger's circuit of ordering, where
+
+<BLOCKQUOTE>
+...the standing reserve persists. It persists insofar as it is 
+imposed upon for a requisitioning. Directed into requisitioning, 
+it is placed into application. Application positions everythin in 
+advance in such a manner that what is positioned follows upon a 
+result. (Heidegger 25)
+</BLOCKQUOTE>
+
+The following [[reword]] is a schematization of a distributed version control workflow along Heidegger's ordering circuit of persist-requisition-application. With a pull request, a user requisitions the remote repository from standing reserve and applies it as the starting position for their work going forward. Conversely, the act of pushing a change(s) to a remote repository, in the cloud, is an act of positioning the new state of the repository as a standing reserve. 
+
+The repository as standing reserve will persist -- barring any actions by the user or Github management that would see the repository removed, either willful removal, breach of service contract, or closing of the account, of course. 
+
