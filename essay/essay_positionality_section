@@ -1,6 +1,6 @@
 essay_positionality_section
 
-this seciton needs to address and discuss:
+this section needs to address and discuss:
 
 positionality and/of distributed cognition
 
@@ -14,7 +14,7 @@ To retrieve the most up-to-date version of the project, a user invokes a pull re
 
 
 
-As the master archive of a contemporaneous accounting of the development of a work, performed by one or many collaborators, the remote repository persists in the cloud. 
+As the master archive of a contemporaneous accounting of the development of a work, performed by one or many collaborators, the remote repository persists in the cloud. It maintains a longinquity (Heidegger 23) in relation to the local repository(s) and the humans that clone, push, and pull its contents. 
 
 Following Heidegger's circuit of ordering, where
 
@@ -28,5 +28,13 @@ result. (Heidegger 25)
 
 The following [[reword]] is a schematization of a distributed version control workflow along Heidegger's ordering circuit of persist-requisition-application. With a pull request, a user requisitions the remote repository from standing reserve and applies it as the starting position for their work going forward. Conversely, the act of pushing a change(s) to a remote repository, in the cloud, is an act of positioning the new state of the repository as a standing reserve. 
 
-The repository as standing reserve will persist -- barring any actions by the user or Github management that would see the repository removed, either willful removal, breach of service contract, or closing of the account, of course. 
+The repository as standing reserve will persist -- barring any actions by the user or Github management that would see the repository removed, either willful removal, breach of service contract, or closing of the account, of course.
 
+
+It is through the concepts of requisition and conscription that Heidegger would depict the open-source situation as itself a technology. 
+
+"One positioning challenges another, falls upon it with a conscripting. 
+This does not proceed by a mere sequence of acts of positioining. 
+According to its essence, conscription occurrs in secret and in advance.
+ Only for this reason does conscription make possible the planning and 
+taking of action upon the individual <><><motives><><> of the particular positionings in a useful manner. But now where does this chain of requisitioning finally run off to?" <<< This paragraph can be used to develop your idea about self-interest because of the word MOTIVES. So need to read next pages of this text. 
