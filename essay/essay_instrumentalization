@@ -1,0 +1,15 @@
+instrumentalization
+
+
+Compare git with a service like dropbox. Git requires users to have more engagement with their actions on files in the repository, as the wrong changes can pose significant challenges to the development of a work. 
+	-- list some ways in which actions in git are instrumentalized
+		-- list which of these actions are 
+
+		Technical self-administration: although the git software places limits on certain actions that can be made by a user. These limitations are often contextual. For example, git prevents two users from pushing changes to the same file, as the second push would overwrite the first. A general practice would require at least one of these users to pull the most recent version of the file, and adding their changes, before being permitted to push. This is implemented with the intention of preventing one user making a problematic change to anothers' work. 
+
+		Despite this, it is still encumbent upon all users to work within this system and propose these changes. Further, where all users have administrative priviledges, it is certainly possible to make such critical -- and irreversible -- changes to the repository as deleting or overwriting the commit history, and [[?]], it is encumbent upon repository members to carry themselves in such a manner as to not make such moves without prior consultation with other members. 
+
+through technology our thinking is supplanted by instrumentalization... i.e. a gps does the thinking and navigation for you (see page 141). Stiegler talks about this in automated society. (line 67 of class-notes_marcus.txt)
+	-- the text editor i'm currently using to write these notes in Sublime Text 3, and it has some plugins which help enrich my writing experience, [be critical of use of 'enrich'] by auto-completing certain uses of symbols, for example the invoking of ' , a second ' immediately appears before my cursor. 
+		-- can there be a question in here, something about how these tools are aimed at scafolding efficiency, but they do make assumptions about particular use patterns of the ascii keys, causing some of 'em['] to be used in this way. 
+	-- Heidegger does not hate the typewriter, but he hates the danger of the uniformity of what the typewriter produces in terms of typeset, font, language, (also the keyboard layout changes how we think), etc. (from notes on may 11)
