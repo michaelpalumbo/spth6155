@@ -77,41 +77,7 @@
 
 
 
-Another feature of the use of DVCS systems like git is the ability to perform both qualitative and quantitative analyses on the repository, a process called software repository mining (CITATION). Mining a repository provides insights into how it is structured, how this structure developed over time. 
 
-For example, Vasilescu, Serebrenik, and Filkov mined <a href="https://github.com/bvasiles/diversity" target="_blank">sets of data</a> from 23,493 repositories on Github.com in order to present insights about the social diversity of Open Source Software teams. 
-
-Repository mining as an incentive for technical self-administration. But repository mining can also be seen as an enframing of the mined repository. Take this very paper and its repository as an example. The author created a spreadsheet listing several hundred of the most-used words in one column, and listed the number of instances that each word appeared into a second column. 
-
-
-<p> 
-This data was further processed using a MSR tool called Code History Miner, (CITATION) by arranging the words into a word cloud visualization, which represents the most commonly used words in fonts larger than those used less commonly.  
-<p>
-<img src="wordcloud.jpg" alt="word cloud">
-<h4>Repository Word Cloud As of 2017/06/20</h4>
-
-Code History Miner provided several other results, including: 'code churn', which is the number of times that a particular file was changed; the amount of files that were included in a given commit, per date; and a file change treemap, (Tu and Shen, 1278) which represents the number of changes a file has undergone relative to other files within the repository's file hierarchy. This full report can be viewed and interacted with in the frame below:
-
-<iframe src="chm_report.html" style="width: 90%; height:400px"></iframe>
-
-<p>
-The "Time Between Commits Histogram", which represents the frequency at which commits were made within a given amount of time, shows that the highest amount of commits within a 24-hour period tended to occur within spans of thirty minutes or less. The second-most common number of commits ocurr between 30 minutes and 2 hours. This suggests that the author's work process tends toward segmenting the progress of a work into short sprints as opposed to working for several hours or days before committing a change to the repository. 
-These results can be viewed and interacted with in the frame below:
-<p>
-
-Another way to enframe the SPTH6155 repository is to analyze its commit history to understand its ontogenesis. To this end, a tool called <i>gource</i> was used to generate a visualisation as a movie:
-
-      <p class="indented"><video width="560" height="340" controls> <source src="gource.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'> <source src="gource.mp4" type='video/ogg; codecs="theora, vorbis"'> </video>
-      </p>
-      <h4 style="padding-left: 50pt">[[need to re-word this: Figure 2: Repository Development Visualization using Gource. Note: "Michael Palumbo" represents contributions through the GitHub website, and "michaelpalumbo" represents contributions via the command line interface]]</h4> 
-
-
-
-
-this information as follows:
-
-
-in all of the documents contained herein and create a spreadsheet gather a list of all the words contained within the repositoryA member of a repository might choose to mine their repository to understand For example, if one were to take stock of all the words used in every document in the SPTH6155 Acelerating Technicity repository, one could then generate a word cloud to visualize the contrast between most common and least common words found:
 
 
 <!--REMEMBER! WRITE WHAT YOU KNOW, AND TO YOURSELF AT FIRST. YOU DON'T NEED TO HIT A HOME RUN IN THE PHILOSPHY DEPARTMENT, JUST PLEASE YOURSELF FIRST.-->
@@ -127,7 +93,8 @@ This paper concerns the positionality of a distributed cognition as it relates t
 
 A technicity of self-interest in distributed version control projects
 
-need to define client and server so that you can make use of it in the concernful approach section. 
+<p>
+I need to define client and server so that you can make use of it in the concernful approach section. 
 <p>
 <h3>section: open source collaboration</h3>
 
@@ -137,6 +104,12 @@ need to define client and server so that you can make use of it in the concernfu
 
 
 were one to apply this flow of the becoming of material objects to the peer-to-peer interactions in a distributed version control social network. 
+
+Drawing from the works discussed in the SPTH6155 Accelerating Technicity course, with a focus on Heidegger, Marcuse, and Simondon, and taking up an accelerationist lens, this paper focuses on the use of distributed version control systems in research-creation. A discussion that follows this, on the subject of the individual's computer-supported collaborative work (CSCW) experience interacting with networked data, is informed by Heidegger's concept of the concernful approach in temporal and spatial domains. Simondon's genesis of the technical object (Simondon 11) builds upon this study, developing it develops towards a schematization of the propagation and reification of ideas through Github.com (CITATION), a social network comprising millions of publicly available directories of open sourced content. Heidegger's Marcuse ...
+
+ of how the work-in-progress of one individual 
+
+To understand 
 
 To schematize the process for how a thing goes from being considered as an idle standing reserve to becoming something put to use, Heidegger conceived of a circuit of ordering, where in a
 
@@ -165,11 +138,25 @@ As the master record of a contemporaneous accounting of the development of a wor
 Certainly there are some examples of direct ordering between a vertical hierarchy of users, as is the case of [[the Linux kernel, with Linus Torvalds as the superior, mandating what the lieutenants and below are to work on...]]
 
 As per positionality as the "...self-ordering" (31) of standing reserves, the distributed version control system in a social network exhibits patterns of decentralized coordination. 
-CLOUDS (George and Minard) is a documentary about creative coding. Built using a game engine, it is an interactive film that enables viewers to manipulate data vizualisations to suit their learning. The source code for the project has also been released:
+CLOUDS (George and Minard 2015) is a documentary about creative coding. Built using a game engine, it is an interactive film that enables viewers to manipulate data vizualisations to suit their interests and aid in learning. The source code for the project has also been <a href="https://github.com/CLOUDS-Interactive-Documentary/CLOUDS" target="_blank">released in a github repository.</a> 
 
-<iframe src="https://github.com/CLOUDS-Interactive-Documentary/CLOUDSreleased" style="width: 90%; height:400px"></iframe>
+[][][][][][][]<p> By releasing the source code to the CLOUDS documentary, it is more likely to be in a position to be challenged forth by viewers, coders, and artists, enframing it in ways beyond what its authors may have originally intended. 
 
 
+<h3>Motivations for Open Source</h3>
+But while 
+
+releasing a work's source code is not an entirely altruistic pursuit, as  common motivations for doing so is to have others provide feedback and constructive criticism on their experience using the source code. In software design, this is called a bug tracker (CITATION), and on Github.com in particular, it is referred to as the <a href="https://guides.github.com/features/issues/" target="_blank"><i>issues</i></a> section.
+
+this often takes place in a section of a repository's social media presence called the <i>issues</i> tab. 
+
+
+Wu, Gerlach, and Young (Wu et al 2007) studied the motivations of open source software developers 
+
+
+What is salient about this fact is that it challenges the dominant notion that a film view may only recieve 
+
+<p>
 If, for example, someone were working from a cloned repository and came across a problem. In code this could be many things, but for the purpose of this example, lets say that it is a problem that o
 
 The concept of position, set, place can be used to schematize a distributed version control workflow. Heidegger uses the example of a peasant positioning an ox, not simply so that it is positioned in space, but that it is positioned in space for a specific purpose and use in an action. (26) This logic can also be observed in the case of DVCS. When cloning a repository, a user conscripts the remote repository from standing reserve, applying it as a starting position for their own work going forward. Conversely, the act of pushing a change(s) to a remote repository, in the cloud, is an act of positioning the new state of the repository as a standing reserve. 
@@ -177,11 +164,12 @@ The concept of position, set, place can be used to schematize a distributed vers
 <p>
 As Github.com is a social network, any user may gain access to any other user's public respositories. Should they wish to copy a repository -- an action called <i>cloning</i> -- they may do so freely. 
 
-"One positioning challenges another, falls upon it with a conscripting. 
+<BLOCKQUOTE>One positioning challenges another, falls upon it with a conscripting. 
 This does not proceed by a mere sequence of acts of positioining. 
 According to its essence, conscription occurrs in secret and in advance.
  Only for this reason does conscription make possible the planning and 
-taking of action upon the individual motives of the particular positionings in a useful manner. But now where does this chain of requisitioning finally run off to?" 
+taking of action upon the individual motives of the particular positionings in a useful manner. But now where does this chain of requisitioning finally run off to?
+</BLOCKQUOTE>
 
 The act of cloning a repository is an acquisition of another person's progress towards expressing an idea, including the contemporaneous accounting of the author's sentiments about the work. In the open-source situation, one is not required to fulfill the desires of the originating author, for one may choose to modify the contents of the cloned repository such that it becomes standing reserve for an all new application. Thus, The process of using someone else's repository is an act of enframing it. 
 
@@ -274,5 +262,41 @@ today, the individual is trusted with precisely what
 >>but this was written before help forums like stack overflow, or subreddits for how-to help -- how can one think critically about the individual, defined as being trusted with more than what they can do at a given moment: suggests that the individual is a worker who learns on the job? does it also suggest that the individual asks for help/ is helped? 
 <p>	- what can be asked about the 'performance of the individual'?
 
+
+Another feature of the use of DVCS systems like git is the ability to perform both qualitative and quantitative analyses on the repository, a process called software repository mining (CITATION). Mining a repository provides insights into how it is structured, how this structure developed over time. 
+
+For example, Vasilescu, Serebrenik, and Filkov mined <a href="https://github.com/bvasiles/diversity" target="_blank">sets of data</a> from 23,493 repositories on Github.com in order to present insights about the social diversity of Open Source Software teams. 
+
+Repository mining as an incentive for technical self-administration. But repository mining can also be seen as an enframing of the mined repository. Take this very paper and its repository as an example. The author created a spreadsheet listing several hundred of the most-used words in one column, and listed the number of instances that each word appeared into a second column. 
+
+
+<p> 
+This data was further processed using a MSR tool called Code History Miner, (CITATION) by arranging the words into a word cloud visualization, which represents the most commonly used words in fonts larger than those used less commonly.  
+<p>
+<img src="wordcloud.jpg" alt="word cloud">
+<h4>Repository Word Cloud As of 2017/06/20</h4>
+
+Code History Miner provided several other results, including: 'code churn', which is the number of times that a particular file was changed; the amount of files that were included in a given commit, per date; and a file change treemap, (Tu and Shen, 1278) which represents the number of changes a file has undergone relative to other files within the repository's file hierarchy. This full report can be viewed and interacted with in the frame below:
+
+<iframe src="chm_report.html" style="width: 90%; height:400px"></iframe>
+
+<p>
+The "Time Between Commits Histogram", which represents the frequency at which commits were made within a given amount of time, shows that the highest amount of commits within a 24-hour period tended to occur within spans of thirty minutes or less. The second-most common number of commits ocurr between 30 minutes and 2 hours. This suggests that the author's work process tends toward segmenting the progress of a work into short sprints as opposed to working for several hours or days before committing a change to the repository. 
+These results can be viewed and interacted with in the frame below:
+<p>
+
+Another way to enframe the SPTH6155 repository is to analyze its commit history to understand its ontogenesis. To this end, a tool called <i>gource</i> was used to generate a visualisation as a movie:
+
+      <p class="indented"><video width="560" height="340" controls> <source src="gource.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'> <source src="gource.mp4" type='video/ogg; codecs="theora, vorbis"'> </video>
+      </p>
+      <h4 style="padding-left: 50pt">[[need to re-word this: Figure 2: Repository Development Visualization using Gource. Note: "Michael Palumbo" represents contributions through the GitHub website, and "michaelpalumbo" represents contributions via the command line interface]]</h4> 
+
+
+
+
+this information as follows:
+
+
+in all of the documents contained herein and create a spreadsheet gather a list of all the words contained within the repositoryA member of a repository might choose to mine their repository to understand For example, if one were to take stock of all the words used in every document in the SPTH6155 Acelerating Technicity repository, one could then generate a word cloud to visualize the contrast between most common and least common words found:
 	</body>
 </html>
