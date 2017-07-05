@@ -1,0 +1,8 @@
+{
+  "gitPath": "git",
+  "hgPath": "hg",
+  "svnPath": "svn",
+  "svnUseMergeHistoryFlag": false,
+  "verboseLogging": false,
+  "newCodeMinerVersionIsAvailable": false
+}

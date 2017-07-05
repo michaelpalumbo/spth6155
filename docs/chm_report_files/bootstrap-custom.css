@@ -1,0 +1,156 @@
+.navbar {
+    border-radius: 0;
+}
+
+a.project-link {
+    font-weight: bold;
+}
+.project-link-separator {
+    opacity: 0.4;
+    padding-left: 0.5em;
+    padding-right: 0.3em;
+}
+.progress {
+    margin-bottom: 0;
+}
+.progress-bar-label-pad {
+    float: left;
+}
+.progress-bar-table-span {
+    display: inline-block;
+    width: 90%;
+    padding-top: 2px;
+}
+.progress-bar-cancel {
+    float: right;
+}
+.popover-dropdown {
+    padding-left: 5px;
+}
+.popover {
+    max-height: 320px;
+    overflow-y: auto;
+}
+.status-description-label {
+    padding-left: 5px;
+}
+/* css below is from https://github.com/twbs/bootstrap/issues/12848 */
+.progress-bar[aria-valuenow="1"],
+.progress-bar[aria-valuenow="2"] {
+    min-width: 3%;
+}
+.progress-bar[aria-valuenow="0"] {
+    color: gray;
+    min-width: 3%;
+    background: transparent;
+    box-shadow: none;
+}
+
+table {
+    table-layout: fixed;
+}
+.table > thead > tr > th {
+    font-weight: normal;
+}
+th.project-name { width: 30% }
+th.project-status { width: 70% }
+td.visualization { width: 85% }
+td.visualization-delete { text-align: center }
+td.vcs-url { width: 70% }
+td.vcs-type { width: 15% }
+td.vcs-delete { text-align: center }
+
+.btn-primary {
+    margin-right: 10px;
+}
+
+.alert {
+    text-align: center;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-control-no-border:focus {
+    border-color: transparent;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.form-group-inline-label {
+    float: left;
+    padding-top: 7px;
+}
+
+.popover.bottom {
+    margin: 0;
+}
+.popover .arrow {
+    display: none;
+}
+.popover {
+    max-width: 100%;
+}
+
+.close {
+    margin-top: -2px; /* workaround for notification alerts */
+}
+
+/*
+Search also for manual inline checkbox styles "padding-top: 7px"
+because the same thing doesn't work using css.
+*/
+.checkbox-inline {
+    width: 14px;
+}
+
+.help-button {
+    width: 15px;
+    opacity: 0.4;
+    vertical-align: middle;
+    cursor: pointer;
+    margin-right: 10px;
+    padding-top: 7px;
+}
+
+.table-in-popover {
+    /* from bootstrap .popover */
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+
+    margin-bottom: 3px;
+}
+.table-in-popover > thead > tr > th,
+.table-in-popover > tbody > tr > td {
+    padding: 3px;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+}
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+.footer .container {
+    width: auto;
+    padding: 0 15px;
+    margin: 20px 0;
+    text-align: center;
+}

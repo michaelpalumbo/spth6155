@@ -75,11 +75,44 @@
 			-->
 		</div>
 
-Another feature of the use of DVCS systems like git is the ability to perform both qualitative and quantitative analyses on the repository. For example, if one were to take stock of all the words used in every document in the SPTH6155 Acelerating Technicity repository, one could then generate a word cloud to visualize the contrast between most common and least common words found:
 
-		
-<img src="wordcloud.jpg" alt="word cloud" >
+
+Another feature of the use of DVCS systems like git is the ability to perform both qualitative and quantitative analyses on the repository, a process called software repository mining (CITATION). Mining a repository provides insights into how it is structured, how this structure developed over time. 
+
+For example, Vasilescu, Serebrenik, and Filkov mined <a href="https://github.com/bvasiles/diversity" target="_blank">sets of data</a> from 23,493 repositories on Github.com in order to present insights about the social diversity of Open Source Software teams. 
+
+Repository mining as an incentive for technical self-administration. But repository mining can also be seen as an enframing of the mined repository. Take this very paper and its repository as an example. The author created a spreadsheet listing several hundred of the most-used words in one column, and listed the number of instances that each word appeared into a second column. 
+
+
+<p> 
+This data was further processed using a MSR tool called Code History Miner, (CITATION) by arranging the words into a word cloud visualization, which represents the most commonly used words in fonts larger than those used less commonly.  
+<p>
+<img src="wordcloud.jpg" alt="word cloud">
 <h4>Repository Word Cloud As of 2017/06/20</h4>
+
+Code History Miner provided several other results, including: 'code churn', which is the number of times that a particular file was changed; the amount of files that were included in a given commit, per date; and a file change treemap, (Tu and Shen, 1278) which represents the number of changes a file has undergone relative to other files within the repository's file hierarchy. This full report can be viewed and interacted with in the frame below:
+
+<iframe src="chm_report.html" style="width: 90%; height:400px"></iframe>
+
+<p>
+The "Time Between Commits Histogram", which represents the frequency at which commits were made within a given amount of time, shows that the highest amount of commits within a 24-hour period tended to occur within spans of thirty minutes or less. The second-most common number of commits ocurr between 30 minutes and 2 hours. This suggests that the author's work process tends toward segmenting the progress of a work into short sprints as opposed to working for several hours or days before committing a change to the repository. 
+These results can be viewed and interacted with in the frame below:
+<p>
+
+Another way to enframe the SPTH6155 repository is to analyze its commit history to understand its ontogenesis. To this end, a tool called <i>gource</i> was used to generate a visualisation as a movie:
+
+      <p class="indented"><video width="560" height="340" controls> <source src="gource.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'> <source src="gource.mp4" type='video/ogg; codecs="theora, vorbis"'> </video>
+      </p>
+      <h4 style="padding-left: 50pt">[[need to re-word this: Figure 2: Repository Development Visualization using Gource. Note: "Michael Palumbo" represents contributions through the GitHub website, and "michaelpalumbo" represents contributions via the command line interface]]</h4> 
+
+
+
+
+this information as follows:
+
+
+in all of the documents contained herein and create a spreadsheet gather a list of all the words contained within the repositoryA member of a repository might choose to mine their repository to understand For example, if one were to take stock of all the words used in every document in the SPTH6155 Acelerating Technicity repository, one could then generate a word cloud to visualize the contrast between most common and least common words found:
+
 
 <!--REMEMBER! WRITE WHAT YOU KNOW, AND TO YOURSELF AT FIRST. YOU DON'T NEED TO HIT A HOME RUN IN THE PHILOSPHY DEPARTMENT, JUST PLEASE YOURSELF FIRST.-->
 
@@ -235,12 +268,5 @@ today, the individual is trusted with precisely what
 >>but this was written before help forums like stack overflow, or subreddits for how-to help -- how can one think critically about the individual, defined as being trusted with more than what they can do at a given moment: suggests that the individual is a worker who learns on the job? does it also suggest that the individual asks for help/ is helped? 
 <p>	- what can be asked about the 'performance of the individual'?
 
-
-
-      <p class="indented"><video width="560" height="340" controls> <source src="gource.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'> <source src="gource.mp4" type='video/ogg; codecs="theora, vorbis"'> </video>
-      </p>
-      <h4 style="padding-left: 50pt">[[need to re-word this: Figure 2: Repository Development Visualization using Gource. Note: "Michael Palumbo" represents contributions through the GitHub website, and "michaelpalumbo" represents contributions via the command line interface]]</h4> 
-
-<p> use '/Users/mp/code-history-miner/bin/code-miner.sh start' to run code history miner, and then analyse this project's repo, get the charts, like the wordcloud...
 	</body>
 </html>
