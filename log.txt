@@ -1,0 +1,999 @@
+commit dc38194669cc3e7758504cceab2104b493582689
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Wed Jul 5 16:40:44 2017 -0400
+
+    updated the index. working on the introduction
+
+ docs/index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 0837f8ea857297eaa2a3db70f73007ec0a89e449
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Wed Jul 5 16:39:08 2017 -0400
+
+    updating the index.html
+
+ docs/clouds.html                                   | 3490 ++++++++++++++++++++
+ docs/clouds_files/2406897                          |  Bin 0 -> 1124 bytes
+ ...6d616765732532466772617661746172732532466772617 |  Bin 0 -> 2400 bytes
+ ...56bf7799a977d6cc8a1f984c71b5ecb2edfdba3d773f.js |    8 +
+ ...5177756ef51bc171feb440be9e174933c6eb56382da.css |   15 +
+ ...d8b95bb109f6d4e35768227a2401b9b6ea5bfb88e83.css |    7 +
+ ...0005d885bc958764e7b419aca5825005cd9efab1f59a.js |   18 +
+ docs/clouds_files/octocat-spinner-128.gif          |  Bin 0 -> 11721 bytes
+ docs/clouds_files/octocat-spinner-32.gif           |  Bin 0 -> 2310 bytes
+ docs/index.html                                    |  102 +-
+ 10 files changed, 3601 insertions(+), 39 deletions(-)
+
+commit 4d1ebc0b278b77073fd29fe001ba990474b8fdc4
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Wed Jul 5 12:24:06 2017 -0400
+
+    started working on a section about technical self-administration and challenging forth AND issue or feature requests in github
+
+ docs/index.html | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+commit 3ed19ef53e03d46f3f260772869024f009b3cb7a
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jul 4 22:06:52 2017 -0400
+
+    update the chm report, and fixed its embedding in iframe in the index.html
+
+ .workspace/projects.json                         |     1 +
+ .workspace/settings.json                         |     8 +
+ docs/chm_report.html                             |  2626 ++++++
+ docs/chm_report_files/bootstrap-custom.css       |   156 +
+ docs/chm_report_files/bootstrap-hover-popover.js |    84 +
+ docs/chm_report_files/bootstrap-theme.css        |   587 ++
+ docs/chm_report_files/bootstrap.css              |  6800 ++++++++++++++
+ docs/chm_report_files/bootstrap.min.js           |     7 +
+ docs/chm_report_files/client-server.js           |   439 +
+ docs/chm_report_files/common.css                 |    82 +
+ docs/chm_report_files/common.js                  |   825 ++
+ docs/chm_report_files/d3.layout.cloud.js         |   383 +
+ docs/chm_report_files/d3.v3.min.js               |     5 +
+ docs/chm_report_files/force-graph.css            |    74 +
+ docs/chm_report_files/force-graph.js             |   629 ++
+ docs/chm_report_files/jquery.js                  | 10346 +++++++++++++++++++++
+ docs/chm_report_files/other.css                  |   117 +
+ docs/chm_report_files/series-chart.js            |   163 +
+ docs/chm_report_files/stacked-barchart.css       |    60 +
+ docs/chm_report_files/stacked-barchart.js        |   512 +
+ docs/chm_report_files/underscore-min.js          |     5 +
+ docs/index.html                                  |    46 +-
+ pid                                              |     1 +
+ 23 files changed, 23946 insertions(+), 10 deletions(-)
+
+commit 04ebd1da6961f94ad33ccc7fc06196dc48179a67
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jul 4 20:08:40 2017 -0400
+
+    working on the idea of cloning as a process of enframing
+
+ docs/index.html | 64 ++++++++++++++++++++++++++++++++++++++++++---------------
+ 1 file changed, 48 insertions(+), 16 deletions(-)
+
+commit 6fe010c2dcadfda5e69e1de753b6f17b88764071
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jul 4 18:56:45 2017 -0400
+
+    worked on the concernful approach section. added some thoughts on this relating to cloud-based collaboration as temporally-dominant concernful approach
+
+ docs/index.html | 23 +++++++++++++++--------
+ 1 file changed, 15 insertions(+), 8 deletions(-)
+
+commit bfdd52062c0599864cc12549cc319cafa15ae6fb
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jul 4 18:18:28 2017 -0400
+
+    updated the index to include the concernful approach section
+
+ docs/index.html | 41 ++++++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 40 insertions(+), 1 deletion(-)
+
+commit 7b2383deed86f69234f14dd09e444fde082ec627
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu Jun 29 20:16:02 2017 -0400
+
+    added the gource, updates to index, and working on a few more essay sections
+
+ docs/gource.mp4                   | Bin 0 -> 23503434 bytes
+ docs/index.html                   |  18 +++++++++++++++++-
+ docs/wordcloud.tiff               | Bin 387962 -> 491534 bytes
+ essay/essay_dvcs-git_explanation  |   0
+ essay/essay_individualism         |   1 +
+ essay/essay_instrumentalization   |  15 +++++++++++++++
+ essay/essay_positionality_section |   3 ++-
+ headshot.jpg                      | Bin 0 -> 90835 bytes
+ 8 files changed, 35 insertions(+), 2 deletions(-)
+
+commit efdcb0a47b55b9723eee75de0b88899eb4ee61c0
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu Jun 29 18:53:16 2017 -0400
+
+    added the paragraph on the concernful approach of data as a temporal domain-action. now adding thoughts on directed and self-ordering in the dvcs social network.
+
+ essay/essay_positionality_section | 20 ++++++--------------
+ 1 file changed, 6 insertions(+), 14 deletions(-)
+
+commit 8d0fed7ff15fac76450e73cce78d1bb546282438
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu Jun 29 16:24:37 2017 -0400
+
+    tired and hungry, i do just want to get this one idea out: the concernful approach in time as an experience of anyone downloading or uploading data.
+
+ essay/essay_positionality_section | 16 ++++++++++++++--
+ 1 file changed, 14 insertions(+), 2 deletions(-)
+
+commit 2b61b92dd0550968e8a55ea088985f119a5c5f34
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu Jun 29 15:50:09 2017 -0400
+
+    added 'longinquity' to the positionality section. also, to do later, i found a quote about 'indivdual motives' and positioning
+
+ essay/essay_positionality_section | 14 +++++++++++---
+ 1 file changed, 11 insertions(+), 3 deletions(-)
+
+commit 3d968d4721442fe30fb3baf72c3d165c09fefeb7
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu Jun 29 15:41:25 2017 -0400
+
+    positionality secction is slowly coming along. i've tried to avoid defining DVCS and git-related workflow, so that i can just discuss it in positionality's terms
+
+ docs/index.html                   | 10 +++++++---
+ essay/essay_positionality_section | 23 +++++++++++++++++++++++
+ 2 files changed, 30 insertions(+), 3 deletions(-)
+
+commit 53695ca13c8d260c79095b48ca8fd72013fd4367
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu Jun 29 14:50:12 2017 -0400
+
+    working on the positionality section of the paper
+
+ essay/essay_positionality_section | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit 4a6fc84eec9fac294f8ed99c6f307eb76080f4d6
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu Jun 29 14:38:53 2017 -0400
+
+    back on the writing train today. i'm afraid to write about the dvcs, though it needs to be done. my concern is that the paper isn't about DVCS proper, rather it is seeming to become more about individualism and self interest around distributed collaboration. i'm not sure why i'm so afraid to write lately, although at this point i've accepted that i just need to get back to it
+
+ docs/index.html  | 18 +++++++++++++-----
+ essay/abstract_2 |  0
+ 2 files changed, 13 insertions(+), 5 deletions(-)
+
+commit 4dec55e4f2696fc61c043b33f7a6986fef87c72c
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Sat Jun 24 16:42:02 2017 -0400
+
+    beginning to define some sections. today I wrote the tentatively-named section 'argue for self-interest as pro-accelerationist'.
+
+ docs/index.html                       | 25 ++++++++++++++++++++-----
+ essay/examples of open-source writing |  3 +++
+ 2 files changed, 23 insertions(+), 5 deletions(-)
+
+commit 79f74524fc5a8964e3f006dc0dd3e5324123d2e5
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Sat Jun 24 16:11:09 2017 -0400
+
+    working on the section of self-interest enframed as an ordering of human, artefact, and human-artefact.
+
+ docs/index.html | 28 +++++++++++++++++++++++++---
+ 1 file changed, 25 insertions(+), 3 deletions(-)
+
+commit 501db0454145beae632c07a5327eacdfa8fd4786
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Sat Jun 24 15:33:48 2017 -0400
+
+    wrote the first sentence of the paper, basically its topic, but its a little convoluted at the moment...
+
+ docs/index.html          |  7 ++++
+ docs/previous_index.html | 96 ++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 103 insertions(+)
+
+commit 9c9d858b312ed9bed5487efb53ddaa1a286a3792
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Sat Jun 24 15:00:26 2017 -0400
+
+    new documents of 'sharing', and 'dependencies' pull in ideas from latter part of class, like virilio, reed, and #accelerate. i feel ready to begin writing a draft of the paper, and moving between it and the abstract.
+
+ essay/dependencies            | 37 +++++++++++++++++++++++++++++++++++++
+ essay/self-interest           |  2 ++
+ essay/sharing                 |  0
+ notes/terminology_marcuse.txt |  2 +-
+ 4 files changed, 40 insertions(+), 1 deletion(-)
+
+commit b040e71d672753d8d07e06c645a740a1a4f83dab
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Sat Jun 24 14:36:16 2017 -0400
+
+    working on a new section document i called 'abstractioning'. its about the accelerationist effort to abstractify emergent processes, turning them in to commitments for other things to rely on in order to run faster.
+
+ essay/abstractioning | 21 +++++++++++++++++++++
+ essay/self-interest  | 17 ++++++++++++++++-
+ 2 files changed, 37 insertions(+), 1 deletion(-)
+
+commit d0deb8ab6b85305731cc5a436a16542ad8ee3031
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Sat Jun 24 14:18:42 2017 -0400
+
+    wrote a short paragraph on the requisitioning of repositories of other users and spatiotemporal nearness. i would like to find a paper or two that discuss the act of browsing the web
+
+ essay/self-interest | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit 7d95f107c4d4b898bd043b6dacb68d4b6532f998
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Sat Jun 24 13:57:29 2017 -0400
+
+    made a file calles 'history : commits' which is where i'll put any text quotes that can be related to commit history in the repository
+
+ essay/abstract           |  1 +
+ essay/history : commits  | 17 +++++++++++++++++
+ essay/individualism-dcog | 23 ++++++++++++++++++++++-
+ essay/self-interest      |  0
+ notes/positionality.txt  |  2 +-
+ 5 files changed, 41 insertions(+), 2 deletions(-)
+
+commit d4bd44ff384058de8fb9533e961f070cef34c5c6
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Wed Jun 21 21:51:29 2017 -0400
+
+    updates to the paper, and also the individualism-dcog changed to refelect changes in the index.html, just so its consistent and that way you can more easily stay up to date with your process and thinking. -- second thought, its time to to take a break from this
+
+ docs/index.html          | 13 +++++++++++++
+ essay/individualism-dcog | 17 ++++++++++++++++-
+ 2 files changed, 29 insertions(+), 1 deletion(-)
+
+commit 1eb1dd6e7aff8248efe3db96c3f1ce39e6cde40b
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Wed Jun 21 21:36:35 2017 -0400
+
+    started writing the paper in the index. got an idea around the topic, possibly, as in distributed version control systems, individual self-interest is standing reserve.
+
+ docs/index.html          | 19 +++++++++++++------
+ essay/individualism-dcog |  4 +++-
+ 2 files changed, 16 insertions(+), 7 deletions(-)
+
+commit 2a9a97caaa8afbf0ca6fa238823d8f9cc14648b2
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Wed Jun 21 21:31:20 2017 -0400
+
+    in this document, 'individualism-dcog.txt', beginning to build a seriies of questions-thoughts around individualism, individual self-interest as standing reserve
+
+ essay/individualism-dcog        | 23 +++++++++++++++++++++++
+ essay/notes-on-essay-topics.txt |  6 +++++-
+ notes/marcuse-notes.txt         |  2 +-
+ 3 files changed, 29 insertions(+), 2 deletions(-)
+
+commit 8e9ef0da67c6ad518f8e06c047cfae6e9f8f5290
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Wed Jun 21 20:56:12 2017 -0400
+
+    added a word cloud of the repository files, from today's analysis using code miner
+
+ docs/index.html                 |   2 ++
+ docs/wordcloud.jpg              | Bin 0 -> 198114 bytes
+ docs/wordcloud.tiff             | Bin 0 -> 387962 bytes
+ essay/notes-on-essay-topics.txt |   3 ++-
+ 4 files changed, 4 insertions(+), 1 deletion(-)
+
+commit e5a2b1783f25edc9847d247998d910a86134b441
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Wed Jun 21 20:44:21 2017 -0400
+
+    moved onto another class notes, the class on accelerationist manifesto. possible interest is the distinction made between vertical authority and distributed horizontal. this is seen in the dvcs where a sysadmin is instated
+
+ essay/notes-on-essay-topics.txt | 15 ++++++++++++++-
+ notes/class-notes_marcus.txt    |  2 +-
+ 2 files changed, 15 insertions(+), 2 deletions(-)
+
+commit 3417460adcccf24424ac7a001ebdbc02cd07d473
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Wed Jun 21 20:22:50 2017 -0400
+
+    what might marcuse's 'technical self-administration' have to do with using a vcs?
+
+ essay/notes-on-essay-topics.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 052a76ceaaffd877a64558d832c4e44af653d3fd
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Wed Jun 21 19:20:41 2017 -0400
+
+    Said's 'travelling theory' might be a usefull way to look at how scholarly writing using DVCS is important
+
+ essay/notes-on-essay-topics.txt | 4 +++-
+ notes/class-notes_marcus.txt    | 6 +++---
+ 2 files changed, 6 insertions(+), 4 deletions(-)
+
+commit 8a73144f5f990a2ad9a456c1ad99117f10bd1544
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Wed Jun 21 19:17:07 2017 -0400
+
+    added a note to self on line 7 and 8 about the use of plugins in the text editor, one in particular which auto-completes certain uses of symbols, like an apostrophe [']. in this i wonder about the usage of such autocomplete as a means towards efficiency makes assumptions about all usage patterns of an ascii keyboard, and created an example in my text that illustrates this
+
+ essay/notes-on-essay-topics.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 3802ede63a792d4791277b3f4c894b3f3ac0ccbe
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Wed Jun 21 19:08:48 2017 -0400
+
+    in notes-on-essay-topics.txt, i'm going through all of my class notes and asking questions.
+
+ essay/notes-on-essay-topics.txt | 8 ++++++++
+ essay/to-do.txt                 | 3 +++
+ 2 files changed, 11 insertions(+)
+
+commit 735dbeba52887d5ca2c0fddd56fb7ca185a7e135
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Wed Jun 21 18:43:18 2017 -0400
+
+    moved notes into 'notes' folder
+
+ .../Jay-Gouldings_western-eastern_Terminology.txt                         | 0
+ Srnicek_Platform_capitalism.txt => notes/Srnicek_Platform_capitalism.txt  | 0
+ class-notes_marcus.txt => notes/class-notes_marcus.txt                    | 0
+ manifesto.txt => notes/manifesto.txt                                      | 0
+ marcuse-notes.txt => notes/marcuse-notes.txt                              | 0
+ .../marcuse_discussion_and_questions.txt                                  | 0
+ notes-from-may-11.txt => notes/notes-from-may-11.txt                      | 0
+ .../notes_marcuse_one-dimensional-man.txt                                 | 0
+ .../notes_on_heidegger_positionality.txt                                  | 0
+ notes_on_negri.txt => notes/notes_on_negri.txt                            | 0
+ one-dimensional-man.txt => notes/one-dimensional-man.txt                  | 0
+ positionality-discussion.txt => notes/positionality-discussion.txt        | 0
+ .../positionality-discussion_in-class.txt                                 | 0
+ positionality.txt => notes/positionality.txt                              | 0
+ reed.txt => notes/reed.txt                                                | 0
+ simondon_reading_notes.txt => notes/simondon_reading_notes.txt            | 0
+ stiegler_notes.txt => notes/stiegler_notes.txt                            | 0
+ terminology_marcuse.txt => notes/terminology_marcuse.txt                  | 0
+ the_labor_of_the_inhuman.txt => notes/the_labor_of_the_inhuman.txt        | 0
+ virilio_great_accelerator.txt => notes/virilio_great_accelerator.txt      | 0
+ 20 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 4b3bc204273f2e11829cb5098a30041e36ec5d7f
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jun 13 23:41:42 2017 -0400
+
+    added the command-line call for code-maat
+
+ mining/how-to-code-maat.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 219166aa3639cb5f53deef912056f44f219d3a8c
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jun 13 23:18:35 2017 -0400
+
+    added code-maat dependencies to the repository for some analysis. hoping to prepare the data for some treemap diagrams using either code-maat, or some of the examples in ben fry's dataviz book from o'reilly publishing
+
+ code-maat-1.0-SNAPSHOT-standalone.jar | Bin 0 -> 22923011 bytes
+ code-maat.csv                         |  35 ++++++
+ docs/index.html                       |   2 +-
+ logfile.csv                           | 217 ++++++++++++++++++++++++++++++++++
+ logfile.log                           | 217 ++++++++++++++++++++++++++++++++++
+ 5 files changed, 470 insertions(+), 1 deletion(-)
+
+commit 389f6d0fee47c3d1e31a335e38f86855d501c6f0
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jun 13 22:38:37 2017 -0400
+
+    attempting to still remove the description and processing info from this page
+
+ docs/index.html | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 9309803153da86d0f9442b97d744cad1b872ef06
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jun 13 22:36:54 2017 -0400
+
+    removed the meta section from site
+
+ docs/index.html | 13 +++----------
+ 1 file changed, 3 insertions(+), 10 deletions(-)
+
+commit 464a4bf38617636cdbd4ef600df6a0ebd0ff32b6
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jun 13 22:34:07 2017 -0400
+
+    added processing sketch to test index embed
+
+ docs/Georgia.ttf   |   Bin 0 -> 155068 bytes
+ docs/Tickle.pde    |    44 +
+ docs/index.html    |    80 +
+ docs/processing.js | 21738 +++++++++++++++++++++++++++++++++++++++++++++++++++
+ 4 files changed, 21862 insertions(+)
+
+commit 2dbe94e6a3aab0ea7711d58276cfd6b373199ab7
+Merge: 4f57975 b94c16b
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jun 13 22:20:35 2017 -0400
+
+    fixing merge conflict from chromebook to macbookpro
+
+commit 4f57975f91bcf9f85333691521c44310b7111272
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jun 13 22:19:22 2017 -0400
+
+    updating before pull
+
+ essay/essay_abstract.html |   5 +++++
+ index.html                |   5 +++++
+ notes/.DS_Store           | Bin 0 -> 6148 bytes
+ 3 files changed, 10 insertions(+)
+
+commit b94c16b18dcb77bd1bbb59f3619319dec149b217
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu Jun 8 14:27:37 2017 -0400
+
+    super-brief notes from Ahsan's presentation in class. can related to the surveillance-project that you did with Reinhart, Scherer, Norman, Harris.
+
+ Srnicek_Platform_capitalism.txt | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
+commit eff4de665a8b65bcbd1d98dde9aa95c3f34037dc
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu Jun 8 14:09:47 2017 -0400
+
+    SEE this one, starting around line 50, where I talk about Reed's tenet of 'abstractify' because its useful in thinking about standing reserves, accelerationism, and abstraction
+
+ reed.txt | 56 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 56 insertions(+)
+
+commit 8c81b48bc227afe720f2b984f82ab144a6648715
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu Jun 8 13:20:27 2017 -0400
+
+    notes from first half of class. see in particular KEY notes at end of 'the_labor_of_the_inhuman.txt' because it is likely very useful for your paper, which could be a reading of accelerationism from a software programming perspective
+
+ index.html                   |  2 +-
+ manifesto.txt                |  1 +
+ notes_on_negri.txt           | 15 +++++++++
+ the_labor_of_the_inhuman.txt | 74 ++++++++++++++++++++++++++++++++++++++++++++
+ 4 files changed, 91 insertions(+), 1 deletion(-)
+
+commit 32b204be4f7daf7bce6147def304002c9642fc87
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jun 6 14:12:25 2017 -0400
+
+    html not rendering in github.io page
+
+ index.html | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 06274ef9895c99c012d24794b39c486ce2520223
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jun 6 14:08:43 2017 -0400
+
+    added notes from class as well as some processing sketch testing to embed in the webpage
+
+ index.html                    | 11 ++++++-
+ manifesto.txt                 | 35 ++++++++++++++++++++++
+ sketch/circle.pde             |  9 ++++++
+ virilio_great_accelerator.txt | 67 +++++++++++++++++++++++++++++++++++++++++++
+ 4 files changed, 121 insertions(+), 1 deletion(-)
+
+commit 5e12cff6ee871b38f87fc332705c045b450736e7
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jun 6 12:30:08 2017 -0400
+
+    added index.html
+
+ index.html                    | 1 +
+ virilio_great_accelerator.txt | 8 ++++++++
+ 2 files changed, 9 insertions(+)
+
+commit 64cbfccfdf92059701bc3deef8c353a182b59a6b
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jun 6 12:05:31 2017 -0400
+
+    updates from notes in class
+
+ virilio_great_accelerator.txt | 20 ++++++++++++++++++++
+ 1 file changed, 20 insertions(+)
+
+commit a2573a07aeb10be6bc88bbc75eb255e2d24d8e80
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue Jun 6 11:54:21 2017 -0400
+
+    adding a docs folder to the project in prep of the github.io
+
+ log.csv                       | 324 ++++++++++++++++++++++++++++++++++++++++++
+ stiegler_notes.txt            |   1 +
+ virilio_great_accelerator.txt |  27 ++++
+ 3 files changed, 352 insertions(+)
+
+commit 4c1da1fb564faf716981b9a03b969ba5264c03ac
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Sat May 20 09:03:38 2017 -0600
+
+    sitting here with pouya talking about linux mate. also i saved the file
+
+ simondon_reading_notes.txt | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+
+commit 3537562aeb104f1c3a3c9832db1dda9e801ef50a
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Sat May 20 02:03:17 2017 -0400
+
+    found some interesting points about evolution of a technical object relating to the constituent parts of an object, whether separate parts are singularly functional and depend on all other parts not getting in the way or overlapping in function, with the more modern tech where parts are multifunctional and interdependent.
+
+ simondon_reading_notes.txt | 18 ++++++++++++++++++
+ 1 file changed, 18 insertions(+)
+
+commit efc21faacf1b05cdf7221ba11599e5ae14cf3ba9
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Sat May 20 01:46:49 2017 -0400
+
+    in alberta, taking notes after a long day. am really tired, so if my notes are lacking anything, maybe thats it. .. .. ...
+
+ simondon_reading_notes.txt | 12 ++++++++++++
+ 1 file changed, 12 insertions(+)
+
+commit 0bcea84802d325df68a88b8288fa0e512082a9b5
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Sat May 20 01:37:52 2017 -0400
+
+    added note file for reading of simondon's On the Mode of existence of technical objects
+
+ notes_marcuse_one-dimensional-man.txt |  8 ++++++++
+ simondon_reading_notes.txt            | 17 +++++++++++++++++
+ 2 files changed, 25 insertions(+)
+
+commit e9a696f2fdc970c674f0c31301b07293a98fa063
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 18 18:41:15 2017 -0400
+
+    some more KEY quotes, see especially '...True discourse...'
+
+ notes_marcuse_one-dimensional-man.txt | 55 +++++++++++++++++++++++++++++++++--
+ 1 file changed, 53 insertions(+), 2 deletions(-)
+
+commit 60c3f878f493f98d4136c22116d35928c9d553ab
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 18 17:08:45 2017 -0400
+
+    taking notes on chapters 5-7 retroactively
+
+ notes_marcuse_one-dimensional-man.txt | 18 ++++++++++++++++++
+ 1 file changed, 18 insertions(+)
+
+commit e284e6eaf98c53008c0f6199f975147d3dbdbf8a
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 18 14:37:31 2017 -0400
+
+    Added a paragraph from page 223 looking at an example of the technological reality dealing with objects.
+
+ one-dimensional-man.txt | 16 +++++++++++++++-
+ test                    |  1 +
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+
+commit 1d8d76c51c9b683681fb535a1dc4813db0d2c15d
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 18 14:17:19 2017 -0400
+
+    a couple cool points: process of enframing leading one intention of use for pyramids by their builders. actually became too many to document here and keep up with the class conversation. so JUST MAKE SURE YOU LOOK AT THIS ONE COMMIT. i think i need to come up with a symbol to make searching through commits easier. lets try the word 'key'.
+
+ one-dimensional-man.txt | 94 +++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 94 insertions(+)
+
+commit f9f682fa7192bc52d47ba81fb939e671df128395
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 18 13:29:23 2017 -0400
+
+    came across a paragraph where I critiqued it for its blindness to the effect of dominant discourse
+
+ one-dimensional-man.txt | 26 ++++++++++++++++++++++++++
+ 1 file changed, 26 insertions(+)
+
+commit e92b0d9fe25e2e57e4cf5ebd19326d7f9b31fe03
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 18 13:28:35 2017 -0400
+
+    technological rationality as dominant logic.
+
+ one-dimensional-man.txt | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit 6394780bac75c9476fda062d59ffead2391c4f0f
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 18 13:16:53 2017 -0400
+
+    see additions pointing to page 138 about abstraction
+
+ one-dimensional-man.txt | 20 ++++++++++++++++++++
+ 1 file changed, 20 insertions(+)
+
+commit 629d9d1cadbf3cb333879d5f74f04afb0a90b318
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 18 12:48:17 2017 -0400
+
+    added a section from prior to our assigned sections that Ahsan pointed out, which deals with remembrance and its association/dissociation to established society, which then leads to a quote from Adorno on page 102: 'The spectre of man without memory ... is more than an aspect of decline -- it is necessarily linked with the principle of progress in bourgeois society.' 'Economists and sociologists such as Werner Sombart and Max Weber correlated the principal of tradition to feudal, and that of rationality to bourgeois, forms of society. This means no less than the advancing bourgeois society liquidates Memory, Time, Reccollection as irrational leftovers of the past...' (Adorno, Wes bedeutet Aufarbeitung der Vergangenheit?'. Marcuse mentions that 'The struggle against history will be further discussed in chapter 7.'
+
+ one-dimensional-man.txt | 42 ++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 42 insertions(+)
+
+commit 60a3ac0b18eddfbbc0bf67fd20b4844ebfd43100
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 18 12:19:24 2017 -0400
+
+    see 'KEY' point about formal logic linked with possitivism
+
+ one-dimensional-man.txt | 12 ++++++++++++
+ 1 file changed, 12 insertions(+)
+
+commit 422f20b725c9ba0e41654642dad0a3e1f439b38f
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 16 14:33:39 2017 -0400
+
+    really interesting discussion of my section of the class-assigned text of marcuse. you should look at how Dr. Bell compares how marcuse critiques Individualism>Massification with your (me) concern with post-individualism, coming in from the lens of distributed creativity to critique individualism's notion of the genius removed from society, and that Marcuse's text seems to have a fear of losing one's own individualism in a mass, but the text doesn't discuss much of the creative potential of the mass itself.
+
+ class-notes_marcus.txt | 63 ++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 63 insertions(+)
+
+commit 33afb9156b4ad72eb8a95476af3e9e97c622bfda
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 16 13:14:36 2017 -0400
+
+    see not on edward said'd travelling theory, and matter-of-factness
+
+ class-notes_marcus.txt | 23 +++++++++++++++++++++++
+ 1 file changed, 23 insertions(+)
+
+commit 64330c815436d616e24d0c294c9ea632bc73a744
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 16 13:01:56 2017 -0400
+
+    added a note about efficiency's effect on education in that students' emphasis on grades being their primary focus instead of looking at other possible affordances of the classroom
+
+ class-notes_marcus.txt | 7 ++++++-
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+
+commit 858aa8c1c40248ebcf7fd556c8339a84feb1fe29
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 16 12:55:27 2017 -0400
+
+    nothing of note to mention
+
+ class-notes_marcus.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 10de398136a867330d08ec3a96df68dd453524e9
+Merge: 092bc99 e534e4c
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 16 12:53:11 2017 -0400
+
+    Merge branch 'master' of http://github.com/michaelpalumbo/spth6155
+
+commit 092bc99f5bd01ccbacd4d3675e2f5e8328745565
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 16 12:52:53 2017 -0400
+
+    notes from lecture on Marcuse
+
+ class-notes_marcus.txt  | 58 +++++++++++++++++++++++++++++++++++++++++++++++++
+ marcuse-notes.txt       | 12 ++++++++++
+ terminology_marcuse.txt | 14 ++++++++++++
+ 3 files changed, 84 insertions(+)
+
+commit e534e4c676df69e708b8725a6bd4826ddff4ec26
+Author: Michael Palumbo <michaelpalumbo@users.noreply.github.com>
+Date:   Tue May 16 11:35:09 2017 -0400
+
+    Create marcuse_discussion_and_questions.txt
+
+ marcuse_discussion_and_questions.txt | 44 ++++++++++++++++++++++++++++++++++++
+ 1 file changed, 44 insertions(+)
+
+commit a7e233940606d87051a665a478224e4fe1aec8d1
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Mon May 15 18:44:59 2017 -0400
+
+    forgot to add that two important ideas come up in the notes i just added in the previous commit, which are the 'individual' and their change from individualism proper, to one that is dependent on what marcuse calls the 'appratus' or what i assume to be the technocracy. 2nd idea is that of 'standardization of thought' which is the effect of the apparatus on the minds of individuals, which espouses rationality to the effect that forces of oppositon and their truths become standardized and folded into the apparatus such that they are used to further the interests of that which they purportedly were once against.
+
+ marcuse-notes.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit cffc22cd41bfeb343214f4450705c71ebabf4c03
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Mon May 15 18:41:10 2017 -0400
+
+    completed notes and reading of pages up to the section I need to read and write the summary and discussion questions for
+
+ marcuse-notes.txt | 55 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 55 insertions(+)
+
+commit 63185d5d2cefe15dbed988bdd8330b1e20c2cfd3
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Mon May 15 11:13:45 2017 -0400
+
+    just saved my notes from yesterday in case it wasn't saved
+
+ marcuse-notes.txt | 33 ++++++++++++++++++++++++++++++++-
+ 1 file changed, 32 insertions(+), 1 deletion(-)
+
+commit c7bd84ff0d35464a3910aa6a4b26a73bd8bb7809
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Sun May 14 14:05:36 2017 -0400
+
+    added a quote from marcuse, page 140 about individualism, and noted that Dcog and Distributed creativity are in opposition to individualism -- not in opposition to self-interest, rather in opposition to the position that one can be entirely 'guided and controlled by autonomous thinking', that no one can truly be autonomous in thought.
+
+ marcuse-notes.txt | 19 ++++++++++++++++++-
+ 1 file changed, 18 insertions(+), 1 deletion(-)
+
+commit e356ff320a2b96ce578fda85f76adc40b20fdf88
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Sun May 14 13:53:05 2017 -0400
+
+    need to define 'technocracy' see page 139
+
+ marcuse-notes.txt | 11 ++++++++++-
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+
+commit 523047d32f3b33d945ca4299b0daaec53ddd2321
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Sun May 14 13:50:20 2017 -0400
+
+    added some notes from pages 138-139. need to define the word 'technics', as i'm offline right now.
+
+ marcuse-notes.txt | 30 ++++++++++++++++++++++++++++++
+ 1 file changed, 30 insertions(+)
+
+commit 59a8b7ce62d6ca39e7d456d892e2777e091d3ce5
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 11 14:34:05 2017 -0400
+
+    created the text file for the marcuse response and discussion questions assignment for next class.
+
+ marcuse-notes.txt | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 97c2ef9e104dbb7bb264a1c9acf96d4507e2c929
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 11 14:28:31 2017 -0400
+
+    in 'notes-from-may-11.txt' definitely see the latter part of the document for the discussion on simulation. simulation might be REALLY interesting in thinking about how creativity manifests and is changed by work in/with a computer/distributed-computing/cloud social network/etc: we challenge for the representaions on screen for reordering to serve our purposes and so on.
+
+ notes-from-may-11.txt | 38 +++++++++++++++++++++++++++++++++++---
+ 1 file changed, 35 insertions(+), 3 deletions(-)
+
+commit 41c5adc0520f5665d136713945880a7bc7bbbb79
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 11 14:07:31 2017 -0400
+
+    cleaned up directory because two files were named similarly, one being ~.txt.save.
+
+ Jay-Gouldings_western-eastern_Terminology.txt | 15 +++++++++++++
+ positionality-discussion_in-class.txt         | 32 +++++++++++++++++++++++++++
+ 2 files changed, 47 insertions(+)
+
+commit c2ff7c0f7ed457d5c6fa696fb92d7745bebd45ed
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 11 13:52:50 2017 -0400
+
+    note that heidegger's notion on instrumentality comes from Marcuse's relational instrumentality, which we'll read about in next week's texts. want to highlight that Jay Goulding pointed to the FRAGMENT as a very interesting and significant concept in deeper Heidegger, so look into this later http://www.popmatters.com/column/forays-into-the-fragment-heidegger-and-kant/   also note that Heidegger's focus on the Danger of technology is an assertion that technology homogenizes.
+
+ notes-from-may-11.txt | 100 +++++++++++++++++++++++++++++++-------------------
+ 1 file changed, 63 insertions(+), 37 deletions(-)
+
+commit 01e9cda769f4f2e84167d12b5c2ad9adee668e07
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 11 13:32:11 2017 -0400
+
+    moved into the discussion on the lecture on 'the danger' which is by Josh.
+
+ notes-from-may-11.txt        | 45 ++++++++++++++++++++++++++++++++++++++++++--
+ positionality-discussion.txt | 23 ++++++++++++++++++++++
+ 2 files changed, 66 insertions(+), 2 deletions(-)
+
+commit b57dc706884a7b64b60f6bf9f87c3e2533ef3e19
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 11 12:38:27 2017 -0400
+
+    added the important comparison of the 'challenging-forth' as precursor to 'enframing'
+
+ notes-from-may-11.txt | 35 +++++++++++++++++++++++++++++++++++
+ 1 file changed, 35 insertions(+)
+
+commit 374753ab38b27fd3acaa34c29e4e1a700c24a673
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 11 12:18:47 2017 -0400
+
+    added notes from class. of high interest to me research is the discussion on representation
+
+ notes-from-may-11.txt | 30 ++++++++++++++++++++++++++++++
+ 1 file changed, 30 insertions(+)
+
+commit a6abda96ea30a2207cbc6941294817f5a86f3aba
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 11 11:36:56 2017 -0400
+
+    posting the notes and questions for class
+
+ positionality-discussion.txt | 63 ++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 63 insertions(+)
+
+commit 6bf3fa9f108db0a9a168b4be7d88a49a65caa9bc
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Thu May 11 09:22:56 2017 -0400
+
+    added a key paragraph that describes positionality as a 'chain[ing] of requisitioning' on page 27.
+
+ positionality.txt | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 93fdece255830b51edddca433d8050794f2c2942
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 9 22:12:16 2017 -0400
+
+    i'm going to stop working for now, so where i was just at is the idea about coal as a standing reserve is 'imposed upon [for heat]'
+
+ positionality.txt | 7 ++++++-
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+
+commit b7134a997debdd56ff8ec87012cc83cee87e9c2b
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 9 22:09:00 2017 -0400
+
+    really KEY section, which is that the parts at the beginning of page 27 is useful for thinking about a way of thinking as PART of technology. that a policy is technology. international diplomacy is technology.
+
+ positionality.txt | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
+commit 60f5a1faa5ab2f37224c49ddaabe03eeeae4358e
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 9 21:59:22 2017 -0400
+
+    a really compelling section about the meaning of 'to position, place, set'. relates to the self-positioning, conscription of resources (standing reserves) into work i.e. the human worker, the ox, the land
+
+ positionality.txt | 33 +++++++++++++++++++++++++++++++++
+ 1 file changed, 33 insertions(+)
+
+commit d8d5321bcc652ef687938c77b9de1b2a37a5a09b
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 9 21:42:58 2017 -0400
+
+    the idea of requisitioning and positioning, i'm curious if it is a temporal concernful approach, and added this question in this commit
+
+ positionality.txt | 32 ++++++++++++++++++++++++++++++++
+ 1 file changed, 32 insertions(+)
+
+commit cb2e898bfce52c1e1f8583c41ed3bc70d1a83c8b
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 9 21:28:14 2017 -0400
+
+    skimmed through page 24 as Heidegger was eating himself a little... i'm tired. i'm onto page 25 now and the 'standing reserve' has reappeared.
+
+ positionality.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 70a24256b6b10171bfe1eccdb0ee9fc399f4ab7c
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 9 21:13:33 2017 -0400
+
+    more on the concerned approach. its as yet unclear what is meant by 'distance lies in concerned approach. The concerned appraoch lies in nearness.' i'm curious if this implies a uni-directionality for the concerned approach. ahhhhh it must be if it is an approach. BUT this section is prefaced by a claim that that which 'absesneces [also] bears the character of what concernfully approaches'
+
+ positionality.txt | 7 ++++++-
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+
+commit 01a85bc697cc742223c55fca196e71c71a290b85
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 9 20:45:23 2017 -0400
+
+    on page 23 and 24. defined 'longinquity'. now trying to figure out what is meant by 'concernful approach'. my hunch at this point is that it has something to do with the thinking about distance, and a thing's position in relation to oneself, and a thing's position in relation to other things all in relation to oneself. i consider this because of two reasons: first, the 'concern' is a mental state, and two, because Heidegger, at bottom of page 23 talks about how a 'concerned approach attunes the distance ... between what is present within presencing.' in that through concern the concept of a things distance in relation to oneself is 'attuned'. not sure about this, but this is where i'm at
+
+ positionality.txt | 22 ++++++++++++++++++++++
+ 1 file changed, 22 insertions(+)
+
+commit 7b5cc56f83632e3a46a64c627f2f2a5aa7f491b9
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 9 20:10:55 2017 -0400
+
+    added positionality.txt because i don't want to type out the full description, but its my notes on this section for the presentation in class on thursday
+
+ positionality.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit f2f58c06a7b8ee33e909e025c97db6e21831bef0
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 9 20:05:04 2017 -0400
+
+    these are my notes for the heidegger text on positionality that i need to read for class for thursday
+
+ notes_on_heidegger_positionality.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 99a1ef6220718a1b4094bbcc0fa34ac828c6d056
+Author: Michael Palumbo <michaelpalumbo@users.noreply.github.com>
+Date:   Tue May 9 14:26:48 2017 -0400
+
+    updated my question in lines 143-148 concerning thinking in relation to technology as a component of technology as per Heidegger, and whether this would fit into a model of distributed cognition (and-or distributed creativity)
+
+ Heidegger - The question concerning technology in-class | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 237a416ffc054c378956d5bebaac64534a434c12
+Author: Michael Palumbo <michaelpalumbo@users.noreply.github.com>
+Date:   Tue May 9 14:16:39 2017 -0400
+
+    see line 143-146 of this note as it pertains to asking about technology also includes "as the way of relating to technology" so then asked how this might fit into a distributed creativity model(s) added a link to a book
+
+ Heidegger - The question concerning technology in-class | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit a035457b6484fb0f484ce63f01952f0e99d4ce71
+Author: Michael Palumbo <michaelpalumbo@users.noreply.github.com>
+Date:   Tue May 9 14:10:28 2017 -0400
+
+    added Einnar's discussion questions and part of my response to such. NOTE that hist first question is VERY compelling in thinking about performance studies as instrumentalizing the fine arts towards political force
+
+ ...r - The question concerning technology in-class | 50 ++++++++++++++++++++++
+ 1 file changed, 50 insertions(+)
+
+commit 8d1d6b7504d8ccad7ce72a8699ed518d30f5e8f3
+Author: Michael Palumbo <michaelpalumbo@users.noreply.github.com>
+Date:   Tue May 9 13:09:37 2017 -0400
+
+    only a very small portion of Rons breaking down of passages from 10-16
+
+ Heidegger - The question concerning technology in-class | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 54e99a459b427224371c96f438467e9c932b5239
+Author: Michael Palumbo <michaelpalumbo@users.noreply.github.com>
+Date:   Tue May 9 12:59:26 2017 -0400
+
+    Create Heidegger - The question concerning technology in-class discussion
+
+ ...r - The question concerning technology in-class | 87 ++++++++++++++++++++++
+ 1 file changed, 87 insertions(+)
+
+commit 673e1cd683a62fecfebf09e876e21b91b6ea414e
+Author: Michael Palumbo <michaelpalumbo@users.noreply.github.com>
+Date:   Tue May 2 12:49:33 2017 -0400
+
+    ignore the .DS_Store files on macosx
+
+ .gitignore | 22 +++-------------------
+ 1 file changed, 3 insertions(+), 19 deletions(-)
+
+commit c98d4b8119877c4e4e5fc2bfaf8b5baac8644abc
+Author: Michael Palumbo <michaelpalumbo@users.noreply.github.com>
+Date:   Tue May 2 12:47:43 2017 -0400
+
+    Update README.md
+
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit edd8abba5dd5399f4af92e9de3fb973a0d30bdde
+Author: michaelpalumbo <emailmichaelpalumbo@gmail.com>
+Date:   Tue May 2 12:44:13 2017 -0400
+
+    added the annotsted pdf of the syllabus
+
+ SPTH-6155_Syllabus-Annotated.pdf | Bin 0 -> 293637 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e0f98b230133cfd6c531297d5fb7cf34817bff96
+Author: Michael Palumbo <michaelpalumbo@users.noreply.github.com>
+Date:   Tue May 2 12:42:43 2017 -0400
+
+    Updating Readme to reflect course title. will shortly add syllabus
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 6108ab1279b44fdcddc5e7d88f5cfb39de36fe6f
+Author: Michael Palumbo <michaelpalumbo@users.noreply.github.com>
+Date:   Tue May 2 12:40:07 2017 -0400
+
+    Initial commit
+
+ .gitignore | 19 +++++++++++++++++++
+ README.md  |  1 +
+ 2 files changed, 20 insertions(+)
